@@ -59,6 +59,4 @@ defmodule Day16 do
     Stream.cycle(list ++ [val])
   end
 
-  # NO ES 24345612
-
 end
