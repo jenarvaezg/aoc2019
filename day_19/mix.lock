@@ -1,0 +1,3 @@
+%{
+  "intcode": {:hex, :intcode, "0.4.0", "1e47bbfa70f699c3c8bd88d2076ad262a705030f849c54aa91cc70465a9a3372", [:mix], [], "hexpm"},
+}
